@@ -1,3 +1,36 @@
 {
-    "salutation": "Hola"
-}
+    "about-section": {
+      "title": "Sobre mi",
+      "description": "Programador con experienca en web/apps, software, diseño, desarrollo y mantenimiento en diversos proyectos."
+    },
+    "experience-box": {
+      "title": "Años de experiencia"
+    },
+    "location-box" : {
+      "title": "De Buenos Aires, AR"
+    },
+    "projects-section": {
+      "title": "Proyectos",
+      "description": "Algunos de los proyectos en los que he trabajado:",
+      "work-experience": "Experiencia laboral",
+      "personal-experience": "Experiencia personal",
+      "projects" : {
+      }
+    },
+    "technologies-section": {
+      "title": "Tecnologías",
+      "description": "Algunas de las tecnologías que he utilizado:"
+    },
+    "experience-section": {
+      "title": "Experiencia",
+      "description": "He trabajado en proyectos para empresas como:",
+      "companies": {
+      }
+    },
+    "others-translations": {
+      "degree": "Ingeniero Informático",
+      "visit": "Visita",
+      "copy-right": "Todos los derechos reservados",
+      "last-update": "Actualizando..."
+    }
+  }

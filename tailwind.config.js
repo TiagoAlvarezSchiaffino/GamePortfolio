@@ -5,9 +5,11 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				dusky: '#202329',
+				// dusky: '#202329',
+				dusky: '#0b0a10',
 				moonlit: '#f5f5f7',
-				midnight: '#343436',
+				// midnight: '#343436',
+				midnight: '#202329',
 				noon: '#efeef2',
 				'neon-blue': '#4353ff',
 				'light-green': '#7cea9cff',
@@ -20,6 +22,15 @@ export default {
 				'gray-cool': '#2a3036',
 				'gray-chacra': '#718096',
 				'sun-beam': '#d69e2e',
+			},
+			animation: {
+				'infinite-scroll': 'infinite-scroll 25s linear infinite',
+			},
+			keyframes: {
+				'infinite-scroll': {
+					from: { transform: 'translateX(0)' },
+					to: { transform: 'translateX(-100%)' },
+				},
 			},
 		},
 	},

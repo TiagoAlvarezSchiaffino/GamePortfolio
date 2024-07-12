@@ -1,3 +1,36 @@
 {
-    "salutation": "Hello"
-}
+    "about-section": {
+      "title": "About",
+      "description": "Programmer with experience in web/apps, software, design, development and maintenance in various projects."
+    },
+    "experience-box": {
+      "title": "Years of experience"
+    },
+    "location-box" : {
+      "title": "From Buenos Aires, AR"
+    },
+    "projects-section": {
+      "title": "Projects",
+      "description": "Here are some projects I've worked on in the past few years.",
+      "work-experience": "Work Experience",
+      "personal-experience": "Personal Experience",
+      "projects" : {
+      }
+    },
+    "technologies-section": {
+      "title": "Technologies",
+      "description": "These are some of the technologies I've worked with:"
+    },
+    "experience-section": {
+      "title": "Experience",
+      "description": "I have worked for the following companies:",
+      "companies": {
+      }
+    },
+    "others-translations": {
+      "degree": "Computer Engineer",
+      "visit": "Visit",
+      "copy-right": "All rights reserved.",
+      "last-update": "Updating..."
+    }
+  }
